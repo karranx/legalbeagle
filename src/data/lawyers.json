@@ -1,0 +1,94 @@
+{
+  "lawyers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "speciality": "Criminal Defense",
+      "firms": ["Doe & Associates"],
+      "address": "123 Main Street, City, Country",
+      "phone": "+1234567890",
+      "availableTime": "Mon-Fri 9:00 AM - 5:00 PM"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "speciality": "Family Law",
+      "firms": ["Smith Law Firm"],
+      "address": "456 Oak Avenue, Town, Country",
+      "phone": "+9876543210",
+      "availableTime": "Mon-Fri 8:00 AM - 6:00 PM"
+    },
+    {
+      "id": 3,
+      "name": "Robert Johnson",
+      "speciality": "Personal Injury",
+      "firms": ["Johnson & Partners"],
+      "address": "789 Elm Street, City, Country",
+      "phone": "+1122334455",
+      "availableTime": "Mon-Fri 9:00 AM - 5:00 PM"
+    },
+    {
+      "id": 4,
+      "name": "Emily Wilson",
+      "speciality": "Real Estate",
+      "firms": ["Wilson Law Group"],
+      "address": "101 Pine Avenue, Town, Country",
+      "phone": "+9988776655",
+      "availableTime": "Mon-Fri 8:30 AM - 4:30 PM"
+    },
+    {
+      "id": 5,
+      "name": "David Garcia",
+      "speciality": "Corporate Law",
+      "firms": ["Garcia & Co."],
+      "address": "222 Maple Street, City, Country",
+      "phone": "+5544332211",
+      "availableTime": "Mon-Fri 9:00 AM - 6:00 PM"
+    },
+    {
+      "id": 6,
+      "name": "Laura Martinez",
+      "speciality": "Criminal Defense",
+      "firms": ["Martinez Legal Services"],
+      "address": "333 Oak Street, Town, Country",
+      "phone": "+6677889900",
+      "availableTime": "Mon-Fri 8:30 AM - 5:30 PM"
+    },
+    {
+      "id": 7,
+      "name": "Michael Brown",
+      "speciality": "Personal Injury",
+      "firms": ["Brown & Associates"],
+      "address": "444 Cedar Avenue, City, Country",
+      "phone": "+1122334455",
+      "availableTime": "Mon-Fri 9:30 AM - 5:30 PM"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Taylor",
+      "speciality": "Real Estate",
+      "firms": ["Taylor Legal Solutions"],
+      "address": "555 Elm Street, Town, Country",
+      "phone": "+1122334455",
+      "availableTime": "Mon-Fri 9:00 AM - 6:00 PM"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Rodriguez",
+      "speciality": "Family Law",
+      "firms": ["Rodriguez Law Group"],
+      "address": "666 Maple Avenue, City, Country",
+      "phone": "+1122334455",
+      "availableTime": "Mon-Fri 8:00 AM - 4:00 PM"
+    },
+    {
+      "id": 10,
+      "name": "Sophia King",
+      "speciality": "Criminal Defense",
+      "firms": ["King Legal Services"],
+      "address": "777 Oak Street, Town, Country",
+      "phone": "+1122334455",
+      "availableTime": "Mon-Fri 9:00 AM - 5:00 PM"
+    }
+  ]
+}
